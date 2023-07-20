@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "/usr/lib/gcc/x86_64-linux-gnu/9/include",
+                "/usr/local/include",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include",
+                "C:\\msys64\\mingw64\\include",
+                "${workspaceFolder}/**",
+                "D:\\Documents\\SFML-2.5.1\\include",
+                "D:\\Downloads\\SFML-2.5.1-windows-vc15-64-bit\\SFML-2.5.1\\include",
+                "D:\\Documents\\SFML-2.5.1-windows-vc14-64-bit\\SFML-2.5.1\\include",
+                "C:\\Users\\tomhu\\anaconda3\\Library\\mingw-w64\\bin",
+                "D:/Documents/SFML-2.5.1/include",
+                "D:/Documents/SFML-2.5.1/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
